@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Users\27900\Desktop\贪吃蛇初版\贪吃蛇架构\main.cpp(1023,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Users\27900\Desktop\贪吃蛇初版\贪吃蛇架构\main.cpp(2063,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Users\27900\Desktop\贪吃蛇初版\贪吃蛇架构\main.cpp(2120,28): warning C4305: “参数”: 从“double”到“float”截断
+D:\Users\27900\Desktop\贪吃蛇初版\贪吃蛇架构\main.cpp(2257,29): warning C4305: “参数”: 从“double”到“float”截断
+D:\Users\27900\Desktop\贪吃蛇初版\贪吃蛇架构\main.cpp(2325,29): warning C4305: “参数”: 从“double”到“float”截断
+  贪吃蛇架构.vcxproj -> D:\Users\27900\Desktop\贪吃蛇初版\x64\Debug\贪吃蛇架构.exe
